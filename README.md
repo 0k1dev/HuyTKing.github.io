@@ -57,25 +57,24 @@
 - Git & GitHub
 - PHPDesktop (cho phiên bản portable)
 
+```
 ## 📁 CẤU TRÚC DỰ ÁN
-
-
 hotel-hkt/
-├── api/                    # API endpoints
-├── assets/                # CSS, JS, images
-├── config/                # Cấu hình database
-├── models/                # Model PHP
-├── views/                 # Giao diện người dùng
-│   ├── auth/             # Đăng nhập, đăng ký
-│   ├── dashboard/        # Trang tổng quan
-│   ├── rooms/            # Quản lý phòng
-│   ├── bookings/         # Quản lý đặt phòng
-│   ├── customers/        # Quản lý khách hàng
-│   └── payments/         # Quản lý thanh toán
-├── database.sql          # Schema database
-├── index.php             # Router chính
-└── README.md             # Tài liệu dự án
-
+├── api/ # API endpoints
+├── assets/ # CSS, JS, images
+├── config/ # Cấu hình database
+├── models/ # Model PHP
+├── views/ # Giao diện người dùng
+│ ├── auth/ # Đăng nhập, đăng ký
+│ ├── dashboard/ # Trang tổng quan
+│ ├── rooms/ # Quản lý phòng
+│ ├── bookings/ # Quản lý đặt phòng
+│ ├── customers/ # Quản lý khách hàng
+│ └── payments/ # Quản lý thanh toán
+├── database.sql # Schema database
+├── index.php # Router chính
+└── README.md # Tài liệu dự án
+```
 
 ## 🚀 HƯỚNG DẪN CÀI ĐẶT
 
