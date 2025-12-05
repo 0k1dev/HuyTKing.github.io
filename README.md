@@ -58,7 +58,7 @@
 - PHPDesktop (cho phiên bản portable)
 
 ```
-## 📁 CẤU TRÚC DỰ ÁN
+📁 CẤU TRÚC DỰ ÁN
 hotel-hkt/
 ├── api/ # API endpoints
 ├── assets/ # CSS, JS, images
