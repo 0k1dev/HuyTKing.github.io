@@ -128,9 +128,9 @@ cd hotel-HKT
 
 ## 👥 THÀNH VIÊN NHÓM
 
-| STT | Họ và Tên | MSSV | Vai trò |
-|-----|-----------|------|---------|
-| 1 | Đinh Tấn Huy| QE200063 | Leader, Full Stack |
+| STT | Họ và Tên | MSSV | Vai trò | Trường Đại Học|
+|-----|-----------|------|---------|---------|
+| 1 | Đinh Tấn Huy| QE200063 | Leader, Full Stack |FPTU - Quy Nhơn|
 
 ## 📅 TIẾN ĐỘ DỰ ÁN
 
