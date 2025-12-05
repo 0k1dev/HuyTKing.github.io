@@ -183,7 +183,7 @@ cd hotel-HKT
 
 ## 📄 GIẤY PHÉP
 Dự án được phát triển cho mục đích học tập.  
-© 2025 Hotel HKT Management System. All rights reserved.
+© 2025 Hotel HUYTKING Management System. All rights reserved.
 
 ## 🙏 LỜI CẢM ƠN
 Xin chân thành cảm ơn:
