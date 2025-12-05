@@ -1,6 +1,3 @@
-# README.md - Đồ Án Quản Lý Khách Sạn Hotel HUYTKING
-
-```markdown
 # 🏨 HỆ THỐNG QUẢN LÝ KHÁCH SẠN HOTEL HUYTKING
 
 ## 📋 Giới thiệu
@@ -62,7 +59,7 @@
 
 ## 📁 CẤU TRÚC DỰ ÁN
 
-```
+
 hotel-hkt/
 ├── api/                    # API endpoints
 ├── assets/                # CSS, JS, images
@@ -78,7 +75,7 @@ hotel-hkt/
 ├── database.sql          # Schema database
 ├── index.php             # Router chính
 └── README.md             # Tài liệu dự án
-```
+
 
 ## 🚀 HƯỚNG DẪN CÀI ĐẶT
 
@@ -94,14 +91,14 @@ hotel-hkt/
 3. Truy cập: `http://127.0.0.1:55000/`
 
 ### Cách 3: Chạy từ GitHub
-```bash
+
 # Clone repository
 git clone https://github.com/0k1dev/HuyTKing.github.io
 cd hotel-HKT
 
 # Hoặc tải file ZIP
 # Giải nén và chạy với XAMPP
-```
+
 
 ## 🔐 THÔNG TIN ĐĂNG NHẬP MẶC ĐỊNH
 
@@ -200,35 +197,4 @@ Xin chân thành cảm ơn:
 
 **🎉 ĐỒ ÁN ĐÃ HOÀN THÀNH THÀNH CÔNG!**  
 *Cám ơn mọi người đã theo dõi và ủng hộ!* 🎊
-```
-
-## **Phiên bản README ngắn gọn:**
-
-```markdown
-# 🏨 Hotel HKT Management System
-
-## 📌 Mô tả
-Hệ thống quản lý khách sạn toàn diện với đầy đủ tính năng cho lễ tân, quản lý và kế toán.
-
-## ✨ Tính năng chính
-- ✅ Quản lý phòng & đặt phòng
-- ✅ Check-in/Check-out tự động
-- ✅ Tính toán hóa đơn
-- ✅ Quản lý khách hàng
-- ✅ Báo cáo & thống kê
-- ✅ Phân quyền người dùng
-
-## 🚀 Cài đặt nhanh
-1. Clone repo: `git clone https://github.com/0k1dev/HuyTKing.github.io`
-2. Copy vào `htdocs`
-3. Import `database.sql`
-4. Truy cập: `http://127.0.0.1/hotel-HKT/`
-
-## 📞 Liên hệ
-Email: dinhtanhuy547@gmail.com
-GitHub: @0k1dev
-
----
-
-**🎯 ĐỒ ÁN ĐÃ HOÀN THÀNH - CẢM ƠN ĐÃ THEO DÕI!**
 ```
